@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "electron-prebuilt": "^1.0.1",
-    "graceful-fs": "4.1.6"
+    "graceful-fs": "3.0.10"
   }
 }
